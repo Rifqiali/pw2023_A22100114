@@ -15,6 +15,9 @@ $kaset = query("SELECT * FROM kaset");
 
 <body>
   <h3>Kaset</h3>
+  <a href="tambah.php">Tambah Data</a>
+  <br><br>
+
   <table border="1" cellpadding="10" cellspacing="0">
     <tr>
 
