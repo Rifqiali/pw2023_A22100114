@@ -20,6 +20,7 @@ if (isset($_POST['tambah'])) {
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tambah Data</title>
+  <link rel="stylesheet" href="sytle.css">
 </head>
 
 <body>
